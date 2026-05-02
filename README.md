@@ -71,6 +71,14 @@ python app.py
 | Decision Tree | 100% | 100% | 100% | 100% |
 
 ---
+
+---
+
+## User Interface
+<img width="1866" height="952" alt="Screenshot 2026-05-02 221709" src="https://github.com/user-attachments/assets/af4219d9-4cb1-406c-a5e0-244efa83a1af" />
+
+
+---
 ---
 
 ## 📊 Testing
