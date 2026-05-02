@@ -1,0 +1,67 @@
+{
+  "feature_names": [
+    "url_length",
+    "url_length_long",
+    "num_dots",
+    "num_hyphens",
+    "num_underscores",
+    "num_slashes",
+    "num_digits",
+    "num_special",
+    "num_at",
+    "has_at",
+    "has_https",
+    "has_http",
+    "hostname_length",
+    "path_length",
+    "query_length",
+    "num_subdomains",
+    "has_ip_address",
+    "has_suspicious_keywords",
+    "suspicious_keyword_count",
+    "kw_login",
+    "kw_verify",
+    "kw_bank",
+    "kw_secure",
+    "kw_update",
+    "kw_account",
+    "kw_billing",
+    "kw_payment",
+    "kw_signin",
+    "kw_confirm",
+    "is_shortened",
+    "has_suspicious_tld",
+    "has_punycode",
+    "digit_ratio",
+    "special_ratio",
+    "hyphen_ratio",
+    "has_repeated_chars",
+    "has_double_extension",
+    "has_encoded_chars",
+    "has_redirect"
+  ],
+  "model_name": "Random Forest",
+  "num_features": 39,
+  "train_size": 960,
+  "test_size": 240,
+  "metrics": {
+    "Logistic Regression": {
+      "accuracy": 0.9916666666666667,
+      "precision": 1.0,
+      "recall": 0.9833333333333333,
+      "f1": 0.9915966386554622
+    },
+    "Random Forest (Primary)": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "Decision Tree": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  }
+}
