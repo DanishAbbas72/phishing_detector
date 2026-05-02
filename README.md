@@ -71,7 +71,16 @@ python app.py
 | Decision Tree | 100% | 100% | 100% | 100% |
 
 ---
+---
 
+## 📊 Testing
+
+<img width="860" height="366" alt="Screenshot 2026-05-02 155858" src="https://github.com/user-attachments/assets/02dc8e07-d402-439b-a634-4385d2776398" />
+<img width="917" height="439" alt="Screenshot 2026-05-02 160428" src="https://github.com/user-attachments/assets/bb559e0c-69be-4066-a470-22f50e92e9b8" />
+
+
+
+---
 ## 🌐 API
 
 ### POST /predict
